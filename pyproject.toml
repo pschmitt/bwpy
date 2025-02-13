@@ -13,3 +13,10 @@ dependencies = [
 
 [project.scripts]
 bwpy = "bwpy:main"
+
+[dependency-groups]
+dev = [
+    "ipython>=8.32.0",
+    "isort>=6.0.0",
+    "ruff>=0.9.6",
+]
