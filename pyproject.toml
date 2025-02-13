@@ -11,7 +11,7 @@ dependencies = [
 ]
 
 [project.scripts]
-bwpy = "bwpy:main"
+bwpy = "bwp:main"
 
 [dependency-groups]
 dev = [
