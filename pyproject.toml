@@ -12,4 +12,4 @@ dependencies = [
 ]
 
 [project.scripts]
-tdc = "bwpy:main"
+bwpy = "bwpy:main"
